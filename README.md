@@ -2,6 +2,8 @@
 # Build a Vehicle Rating System in Go
 In this project, you'll be using Go to build a console application that will gather feedback from a JSON file and generate a rating of vehicles. Finally, we will map each rating as positive, negative, or neutral.
 
+<i> This project concentrates on the use of loops and conditionals in Go and employs deeply nested statements that are not recommended for use when practicing clean coding. </i>
+
 ## Setup
 Set up your local environment for this project. We'll walk you through everything you need to know to set up your local instance, and to access the code you'll be using for this project.
 
